@@ -6,6 +6,9 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
 
 *Securing financial transactions with Deep Learning and Computer Vision.*
 
@@ -31,14 +34,10 @@ As the Machine Learning Developer on this team, I was responsible for the entire
 
 ---
 
-## 📱 UI Showcase (Collaborative Output)
-*Here is how my ML backend integrates with the team's frontend UI to deliver the final product to the user.*
-
-*(Replace the URLs below using the drag-and-drop GitHub Issue trick!)*
-
+## 📱 Output
 <p align="center">
-  <img src="PASTE_LINK_1_HERE" width="45%" alt="UI Screen 1 - Cheque Upload" />
-  <img src="PASTE_LINK_2_HERE" width="45%" alt="UI Screen 2 - Fraud Detection Results" />
+  <img src="https://github.com/user-attachments/assets/b26c945f-43ef-4b25-a34f-751b4ac0cb80" width="45%"  />
+  <img src="https://github.com/user-attachments/assets/69559d6a-08d5-44cc-86d8-ab423335ba8c" width="45%" />
 </p>
 
 ---
